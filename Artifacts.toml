@@ -1,0 +1,143 @@
+[[libcleri]]
+arch = "aarch64"
+git-tree-sha1 = "db743601f1483a039b6a675ab9b797a0c979bde8"
+os = "macos"
+
+    [[libcleri.download]]
+    sha256 = "a245c18fd0e6fc00c4a4f5f50b5ad004d91a748d3e9d164e1285589099aee539"
+    url = "https://github.com/JuliaBinaryWrappers/libcleri_jll.jl/releases/download/libcleri-v0.12.1+0/libcleri.v0.12.1.aarch64-apple-darwin.tar.gz"
+[[libcleri]]
+arch = "aarch64"
+git-tree-sha1 = "ba8f7e499865d5a37bc3fa87eb785db9a09fd5a4"
+libc = "glibc"
+os = "linux"
+
+    [[libcleri.download]]
+    sha256 = "17f8376301cbfee610bef278bb950c3fa6744b15e8bedc235a2987e5358aa925"
+    url = "https://github.com/JuliaBinaryWrappers/libcleri_jll.jl/releases/download/libcleri-v0.12.1+0/libcleri.v0.12.1.aarch64-linux-gnu.tar.gz"
+[[libcleri]]
+arch = "aarch64"
+git-tree-sha1 = "115732a8bb2e73cdbf9395cbc0b385416b17391b"
+libc = "musl"
+os = "linux"
+
+    [[libcleri.download]]
+    sha256 = "43d861cd4c606d77c5e0734cadec816705fceb2a54f005b08abd83a16f61d155"
+    url = "https://github.com/JuliaBinaryWrappers/libcleri_jll.jl/releases/download/libcleri-v0.12.1+0/libcleri.v0.12.1.aarch64-linux-musl.tar.gz"
+[[libcleri]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ee5e110ae7b7382c814b19137b3909a6b39a555f"
+libc = "glibc"
+os = "linux"
+
+    [[libcleri.download]]
+    sha256 = "a0f77f5bfa381cb428d8b1d2b68a97c0c66fa484e0bd63631a9ba73fb39d0415"
+    url = "https://github.com/JuliaBinaryWrappers/libcleri_jll.jl/releases/download/libcleri-v0.12.1+0/libcleri.v0.12.1.armv6l-linux-gnueabihf.tar.gz"
+[[libcleri]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4626e7d53351760f8a964bbffb6b368edf7ad313"
+libc = "musl"
+os = "linux"
+
+    [[libcleri.download]]
+    sha256 = "48cf680bc4710787fd812bd43bd1d760ff43a2d9a31af612611f943305258b14"
+    url = "https://github.com/JuliaBinaryWrappers/libcleri_jll.jl/releases/download/libcleri-v0.12.1+0/libcleri.v0.12.1.armv6l-linux-musleabihf.tar.gz"
+[[libcleri]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ce17fa3cf7652c15f8861a68ea97b60451df45c3"
+libc = "glibc"
+os = "linux"
+
+    [[libcleri.download]]
+    sha256 = "b5f5b3c3678efec53f09d3f96ed3dcb7e1ad9085b1e253df99a042d28287d9ea"
+    url = "https://github.com/JuliaBinaryWrappers/libcleri_jll.jl/releases/download/libcleri-v0.12.1+0/libcleri.v0.12.1.armv7l-linux-gnueabihf.tar.gz"
+[[libcleri]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "867c28449a422dbc3d1fb684db8203e5ab4a2214"
+libc = "musl"
+os = "linux"
+
+    [[libcleri.download]]
+    sha256 = "bfd798025753199abe4ebd422242abb1fd1508737e8c1f4324454c2c5f639d7f"
+    url = "https://github.com/JuliaBinaryWrappers/libcleri_jll.jl/releases/download/libcleri-v0.12.1+0/libcleri.v0.12.1.armv7l-linux-musleabihf.tar.gz"
+[[libcleri]]
+arch = "i686"
+git-tree-sha1 = "b8cef784a9332a2b516d41381213712a956c0e68"
+libc = "glibc"
+os = "linux"
+
+    [[libcleri.download]]
+    sha256 = "ae8bb8f873aba9057e0b62deb74c7442a5dc40bfa5d0e8c6d50f71d15d0deb94"
+    url = "https://github.com/JuliaBinaryWrappers/libcleri_jll.jl/releases/download/libcleri-v0.12.1+0/libcleri.v0.12.1.i686-linux-gnu.tar.gz"
+[[libcleri]]
+arch = "i686"
+git-tree-sha1 = "ba1baea16c94127336ea9bb517f372598b5d4713"
+libc = "musl"
+os = "linux"
+
+    [[libcleri.download]]
+    sha256 = "e5a0bf5896390c4f894f24b6d80049521996f1841e6184f6fad44789f9444692"
+    url = "https://github.com/JuliaBinaryWrappers/libcleri_jll.jl/releases/download/libcleri-v0.12.1+0/libcleri.v0.12.1.i686-linux-musl.tar.gz"
+[[libcleri]]
+arch = "i686"
+git-tree-sha1 = "b553f74496e108c5de37877866408dceafa72a17"
+os = "windows"
+
+    [[libcleri.download]]
+    sha256 = "e3fe0e889a0d471bf544d3799b94f70845a45ddc7b557521784cd59050d3e13f"
+    url = "https://github.com/JuliaBinaryWrappers/libcleri_jll.jl/releases/download/libcleri-v0.12.1+0/libcleri.v0.12.1.i686-w64-mingw32.tar.gz"
+[[libcleri]]
+arch = "powerpc64le"
+git-tree-sha1 = "555df2fe7f6d65395de63ac6365c66ce1b609af6"
+libc = "glibc"
+os = "linux"
+
+    [[libcleri.download]]
+    sha256 = "2f79a416565582ac975f13dd0e388336f0d8de7afde1fc0da52d8d1f8066d6d3"
+    url = "https://github.com/JuliaBinaryWrappers/libcleri_jll.jl/releases/download/libcleri-v0.12.1+0/libcleri.v0.12.1.powerpc64le-linux-gnu.tar.gz"
+[[libcleri]]
+arch = "x86_64"
+git-tree-sha1 = "9e23e2537d3402e359559677462acfa76dd79f5c"
+os = "macos"
+
+    [[libcleri.download]]
+    sha256 = "813dc6d67b5c0fbe25c15d887335a1d1d16f94fb16507e21655b6bcfee9eae86"
+    url = "https://github.com/JuliaBinaryWrappers/libcleri_jll.jl/releases/download/libcleri-v0.12.1+0/libcleri.v0.12.1.x86_64-apple-darwin.tar.gz"
+[[libcleri]]
+arch = "x86_64"
+git-tree-sha1 = "3df1995c3b5b5dacfb7d0fa9cfd08a27cb5c4b19"
+libc = "glibc"
+os = "linux"
+
+    [[libcleri.download]]
+    sha256 = "497e485679cae0d2ac39882dfd92c949317247d64d6b45b6aacd659f64ea620b"
+    url = "https://github.com/JuliaBinaryWrappers/libcleri_jll.jl/releases/download/libcleri-v0.12.1+0/libcleri.v0.12.1.x86_64-linux-gnu.tar.gz"
+[[libcleri]]
+arch = "x86_64"
+git-tree-sha1 = "4a4f1ae9eb7626e7bfc6a8957833acd6601ee019"
+libc = "musl"
+os = "linux"
+
+    [[libcleri.download]]
+    sha256 = "1aa93688ae4a167abff309fb46cc949905cb92a33cd8ac74065aba7768892581"
+    url = "https://github.com/JuliaBinaryWrappers/libcleri_jll.jl/releases/download/libcleri-v0.12.1+0/libcleri.v0.12.1.x86_64-linux-musl.tar.gz"
+[[libcleri]]
+arch = "x86_64"
+git-tree-sha1 = "1309f218e40407f66c71024f9fa70213f1955282"
+os = "freebsd"
+
+    [[libcleri.download]]
+    sha256 = "1a3e2f395dd531797d0ce953b08175979fa930c425988f5b4b1fe20a2aa61ef4"
+    url = "https://github.com/JuliaBinaryWrappers/libcleri_jll.jl/releases/download/libcleri-v0.12.1+0/libcleri.v0.12.1.x86_64-unknown-freebsd.tar.gz"
+[[libcleri]]
+arch = "x86_64"
+git-tree-sha1 = "ddd236b5449151c2a53384196700b937f5a001d5"
+os = "windows"
+
+    [[libcleri.download]]
+    sha256 = "016fdcef41bcef4be85114ba92eb6c8161ba350a11aadb1508dfda9dd3e048bd"
+    url = "https://github.com/JuliaBinaryWrappers/libcleri_jll.jl/releases/download/libcleri-v0.12.1+0/libcleri.v0.12.1.x86_64-w64-mingw32.tar.gz"
