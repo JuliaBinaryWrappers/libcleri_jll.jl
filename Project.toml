@@ -1,6 +1,6 @@
 name = "libcleri_jll"
 uuid = "cdc7adba-bef8-5cba-a7ee-c792dee3081e"
-version = "0.12.1+0"
+version = "0.12.1+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
